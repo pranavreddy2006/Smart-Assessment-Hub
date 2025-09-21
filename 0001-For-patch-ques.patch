@@ -1,0 +1,20 @@
+From cdc5f590be04829ba4f9f4f816a4a0deb85fe0c0 Mon Sep 17 00:00:00 2001
+From: pranavreddy2006 <pranavgangadicse2006@gmail.com>
+Date: Sun, 21 Sep 2025 17:50:19 +0530
+Subject: [PATCH] For patch ques
+
+---
+ ex.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 ex.txt
+
+diff --git a/ex.txt b/ex.txt
+new file mode 100644
+index 0000000..a268111
+--- /dev/null
++++ b/ex.txt
+@@ -0,0 +1 @@
++For patch question
+-- 
+2.51.0.windows.1
+
